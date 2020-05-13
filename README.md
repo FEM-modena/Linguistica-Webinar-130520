@@ -24,7 +24,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 **Il romanzo horror**
 ![](frankenstein.jpg)
 
-* <a href="https://docs.google.com/document/d/1A662rDcdvYp_vd0pCvv7_dUhk9kvHYw2GN8tbWggqaA/edit#heading=h.woep0u49atx2" target="_blank">Frankenstein (Mary Shelley, 1818)</a>
+* <a href="https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit" target="_blank">Frankenstein (Mary Shelley, 1818)</a>
 
 **Il romanzo fantastico**
 ![](luna.jpg)
@@ -37,10 +37,10 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 **I Promessi Sposi**
 ![](I_promessi_sposi_462.jpg)
-* <a href="https://docs.google.com/document/d/1ozf7iMGhbp8O1TMgm2ovMw2Lj4Yj6MoN2o-iiQKnoO8/edit#heading=h.dbr6ynre5d9q" target="_blank">Brano tratto dal capitolo XXI</a>
+* <a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw/edit?usp=sharing" target="_blank">Brano tratto dal capitolo XXI</a>
 
 **Il testo argomentativo**
-* <a href="https://docs.google.com/document/d/14xnp7nbh7s1uCywox7Y1ynqZdbXyU-_76IfmwQDVMr8/edit#heading=h.dbr6ynre5d9q" target="_blank">Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa</a>
+* <a href="https://docs.google.com/document/d/19tZeWgxqa9vMymbQZ8jc03qzw-rTYIHSj6QJuku8Shs/edit?usp=sharing" target="_blank">Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa</a>
 
 ### Come sono strutturati i nostri **template**?
 Ogni attività è pensata per essere disponibile in versione *avanzata* anche sulla piattaforma di annotazione **doccano**. Per ogni testo abbiamo preparato una tabella per annotare le caratteristiche testuali, con un focus particolare sulla *prosodia semantica*. Pensiamo infatti che identificare e annotare le caratteristiche salienti di una certa tipologia testuale sia il primo passo per imparare a scrivere un testo originale.
