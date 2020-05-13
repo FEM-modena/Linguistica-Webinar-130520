@@ -22,10 +22,10 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 ### Scuole secondarie - 1° grado
 **Il romanzo horror**  
-<a href="https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit" target="_blank">Questo primo template</a> è calibrato sull’opera *Frankenstein* (Mary Shelley, 1818) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi horror. Abbiamo anche incluso alcuni spunti per altre 2 opere: **Dracula** e **Racconti fantastici e dell’orrore**.
+<a href="https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit" target="_blank">Questo primo template</a> è calibrato sull’opera *Frankenstein* (Mary Shelley, 1818) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi horror. Non ti piace **Frankenstein**? Perché non provare con **Dracula** o **Racconti fantastici e dell’orrore**?
 
 **Il romanzo fantastico**  
-<a href="https://drive.google.com/open?id=1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU" target="_blank">Questo template</a> è calibrato sull’opera *Dalla Terra alla Luna* (Jules Verne, 1865) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi fantastici. Abbiamo anche incluso alcuni spunti per altre 2 opere: **Alice nel paese delle meraviglie** e **I viaggi di Gulliver**.
+<a href="https://drive.google.com/open?id=1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU" target="_blank">Questo template</a> è calibrato sull’opera *Dalla Terra alla Luna* (Jules Verne, 1865) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi fantastici. Non ti piace **Dalla Terra alla Luna**? Perché non provare con **Alice nel paese delle meraviglie** o **I viaggi di Gulliver**?
 
 
 ### Scuole secondarie - 2° grado
