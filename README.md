@@ -22,21 +22,21 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 ### Scuole secondarie - 1° grado
 **Il romanzo horror**
-![](frankenstein.jpg | width=250)
+![](frankenstein.jpg)
 
 * <a href="https://docs.google.com/document/d/1A662rDcdvYp_vd0pCvv7_dUhk9kvHYw2GN8tbWggqaA/edit#heading=h.woep0u49atx2" target="_blank">Frankenstein (Mary Shelley, 1818)</a>
 
 **Il romanzo fantastico**
-![](luna.jpg | width=250)
+![](luna.jpg)
 
-* <a href="INSERIRE LINK" target="_blank">Dalla Terra alla Luna (Jules Verne, 1865)</a>
-* <a href="INSERIRE LINK" target="_blank">Alice nel Paese delle Meraviglie (Lewis Carroll, 1865)</a>
-* <a href="INSERIRE LINK" target="_blank">I Viaggi di Gulliver (Jonathan Swift, 1726)</a>
+* <a href="https://docs.google.com/document/d/1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU/edit#heading=h.hsii45col1k" target="_blank">Dalla Terra alla Luna (Jules Verne, 1865)</a>
+* <a href="https://docs.google.com/document/d/1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU/edit#heading=h.j9e5d77vfj21" target="_blank">Alice nel Paese delle Meraviglie (Lewis Carroll, 1865)</a>
+* <a href="https://docs.google.com/document/d/1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU/edit#heading=h.dcejyvkegoks" target="_blank">I Viaggi di Gulliver (Jonathan Swift, 1726)</a>
 
 ### Scuole secondarie - 2° grado
 
 **I Promessi Sposi**
-![](I_promessi_sposi_462.jpg | width=250)
+![](I_promessi_sposi_462.jpg)
 * <a href="https://docs.google.com/document/d/1ozf7iMGhbp8O1TMgm2ovMw2Lj4Yj6MoN2o-iiQKnoO8/edit#heading=h.dbr6ynre5d9q" target="_blank">Brano tratto dal capitolo XXI</a>
 
 **Il testo argomentativo**
