@@ -22,26 +22,23 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 ### Scuole secondarie - 1° grado
 **Il romanzo horror**  
-  
-* <a href="https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit" target="_blank">Frankenstein (Mary Shelley, 1818)</a>
+<a href="https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit" target="_blank">Questo primo template</a> è calibrato sull’opera *Frankenstein* (Mary Shelley, 1818) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi horror. Abbiamo anche incluso alcuni spunti per altre 2 opere: **Dracula** e **Racconti fantastici e dell’orrore**.
 
 **Il romanzo fantastico**
+<a href="https://drive.google.com/open?id=1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU" target="_blank">Questo template</a> è calibrato sull’opera *Dalla Terra alla Luna* (Jules Verne, 1865) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi fantastici. Abbiamo anche incluso alcuni spunti per altre 2 opere: **Alice nel paese delle meraviglie** e **I viaggi di Gulliver**.
 
-* <a href="https://docs.google.com/document/d/1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU/edit#heading=h.hsii45col1k" target="_blank">Dalla Terra alla Luna (Jules Verne, 1865)</a>
-* <a href="https://docs.google.com/document/d/1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU/edit#heading=h.j9e5d77vfj21" target="_blank">Alice nel Paese delle Meraviglie (Lewis Carroll, 1865)</a>
-* <a href="https://docs.google.com/document/d/1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU/edit#heading=h.dcejyvkegoks" target="_blank">I Viaggi di Gulliver (Jonathan Swift, 1726)</a>
 
 ### Scuole secondarie - 2° grado
 
 **I Promessi Sposi**  
-
-* <a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw/edit?usp=sharing" target="_blank">Brano tratto dal capitolo XXI</a>
+<a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’opera *I Promessi Sposi* (Alessandro Manzoni, 1842) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi letterari. 
 
 **Il testo argomentativo**
-* <a href="https://docs.google.com/document/d/19tZeWgxqa9vMymbQZ8jc03qzw-rTYIHSj6QJuku8Shs/edit?usp=sharing" target="_blank">Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa</a>
+<a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’analisi di testi argomentativi - in questo caso l’articolo *Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa* (pubblicato sul sito linkiesta.it) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi argomentativi. 
+
 
 ### Come sono strutturati i nostri **template**?
-Ogni attività è pensata per essere disponibile in versione *avanzata* anche sulla piattaforma di annotazione **doccano**. Per ogni testo abbiamo preparato una tabella per annotare le caratteristiche testuali, con un focus particolare sulla *prosodia semantica*. Pensiamo infatti che identificare e annotare le caratteristiche salienti di una certa tipologia testuale sia il primo passo per imparare a scrivere un testo originale.
+Ogni attività è pensata per essere disponibile in versione *avanzata* anche sulla piattaforma di annotazione **doccano**. Per ogni testo abbiamo preparato una tabella per annotare le caratteristiche testuali, con un focus particolare sulla <i class="far fa-comment-dots" style="color:purple"></i> *prosodia semantica*. Pensiamo infatti che identificare e annotare le caratteristiche salienti di una certa tipologia testuale sia il primo passo per imparare a scrivere un testo originale.
 Nella sezione **Hai voglia di scrivere?** trovate alcuni spunti di scrittura che partono sempre da una *rielaborazione* delle caratteristiche annotate precedentemente. In **Valutiamoci!** vi proponiamo invece un’attività di *(auto)valutazione* da svolgere insieme ai vostri studenti utilizzando lo strumento **Voyant** per leggere i testi letterari. Perchè non provare a caricare i testi prodotti dagli studenti e lasciar loro la possibilità di *esplorarli*, magari concentrandosi sul lessico utilizzato o sull’uso delle connotazioni?
 
 
