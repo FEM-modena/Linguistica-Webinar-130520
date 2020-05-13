@@ -24,7 +24,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 **Il romanzo horror**  
 <a href="https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit" target="_blank">Questo primo template</a> è calibrato sull’opera *Frankenstein* (Mary Shelley, 1818) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi horror. Abbiamo anche incluso alcuni spunti per altre 2 opere: **Dracula** e **Racconti fantastici e dell’orrore**.
 
-**Il romanzo fantastico**
+**Il romanzo fantastico**  
 <a href="https://drive.google.com/open?id=1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU" target="_blank">Questo template</a> è calibrato sull’opera *Dalla Terra alla Luna* (Jules Verne, 1865) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi fantastici. Abbiamo anche incluso alcuni spunti per altre 2 opere: **Alice nel paese delle meraviglie** e **I viaggi di Gulliver**.
 
 
@@ -33,7 +33,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 **I Promessi Sposi**  
 <a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’opera *I Promessi Sposi* (Alessandro Manzoni, 1842) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi letterari. 
 
-**Il testo argomentativo**
+**Il testo argomentativo**  
 <a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’analisi di testi argomentativi - in questo caso l’articolo *Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa* (pubblicato sul sito linkiesta.it) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi argomentativi. 
 
 
