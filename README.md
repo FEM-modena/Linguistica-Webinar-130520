@@ -21,9 +21,10 @@ Vi abbiamo preparato una serie di attività di comprensione e scrittura a partir
 Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro.
 
 ### Scuole secondarie - 1° grado
-**Il romanzo horror**
-![](frankenstein.jpg)
+**Il romanzo horror**  
 
+![](frankenstein.jpg)  
+  
 * <a href="https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit" target="_blank">Frankenstein (Mary Shelley, 1818)</a>
 
 **Il romanzo fantastico**
@@ -35,8 +36,10 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 ### Scuole secondarie - 2° grado
 
-**I Promessi Sposi**
-![](I_promessi_sposi_462.jpg)
+**I Promessi Sposi**  
+
+![](I_promessi_sposi_462.jpg)  
+
 * <a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw/edit?usp=sharing" target="_blank">Brano tratto dal capitolo XXI</a>
 
 **Il testo argomentativo**
