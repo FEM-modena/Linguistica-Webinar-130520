@@ -34,7 +34,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 <a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’opera *I Promessi Sposi* (Alessandro Manzoni, 1842) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi letterari. 
 
 **Il testo argomentativo**  
-<a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’analisi di testi argomentativi - in questo caso l’articolo *Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa* (pubblicato sul sito linkiesta.it) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi argomentativi. 
+<a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’analisi di testi argomentativi - in questo caso l’articolo *Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa*, pubblicato sul sito linkiesta.it - e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi argomentativi. 
 
 
 ### Come sono strutturati i nostri **template**?
@@ -43,7 +43,8 @@ Nella sezione **Hai voglia di scrivere?** trovate alcuni spunti di scrittura che
 
 
 ## Qualche attività **extra**: Esploriamo il testo?
-Prima di far leggere i brani ai vostri studenti, vi proponiamo un’attività **esplorativa** utilizzando lo strumento **Voyant** per la letteratura *a distanza*. Di seguito alcuni esperimenti linguistici sul testo di *Frankenstein*: abbiamo analizzato <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=creatur*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=CorpusCollocates" target="_blank"> le collocazioni di "creatur\*" </a> e <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=mostro*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank"> i contesti di "mostro" </a> perchè ci interessava capire quanto questi termini fossero caratterizzanti del linguaggio “dell’orrore” tipico del romanzo gotico. 
+Prima di far leggere i brani ai vostri studenti, vi proponiamo un’attività **esplorativa** utilizzando lo strumento **Voyant** per la letteratura *a distanza* (dentro ad ogni template c’è un link per accedere ad una mini-guida all’uso di Voyant).  
+Di seguito alcuni esperimenti linguistici sul testo di *Frankenstein*: abbiamo analizzato <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=creatur*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=CorpusCollocates" target="_blank"> le collocazioni di "creatur\*" </a> e <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=mostro*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank"> i contesti di "mostro" </a> perchè ci interessava capire quanto questi termini fossero caratterizzanti del linguaggio “dell’orrore” tipico del romanzo gotico. 
 
 ![](creatur.png)
 ![](mostro.png)
