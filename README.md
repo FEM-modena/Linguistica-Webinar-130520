@@ -12,9 +12,9 @@ Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui
 Vi abbiamo preparato una serie di attività di comprensione e scrittura a partire da diverse tipologie di testi letterari in uso a scuola, e in più una proposta per chi volesse cimentarsi con un testo argomentativo. Le attività sono pensate per le scuole secondarie di primo e di secondo grado, ed affrontano diverse caratteristiche linguistiche coinvolte nella comprensione e nella produzione di testi.
 
 <i class="far fa-comment-dots" style="color:red"></i> ***Metafore concettuali***: le metafore influenzano/costruiscono il modo attraverso il quale concettualizziamo un argomento.  
-<i class="far fa-comment-dots" style="color:blue"></i> ***Evidenzialità***: ciò che facciamo quando riportiamo delle informazioni da @@@   
-<i class="far fa-comment-dots" style="color:green"></i> Coesione e coerenza: le regole *base* di un “buon testo”,   
-<i class="far fa-comment-dots" style="color:purple"></i> ***Prosodia semantica***: l’uso delle giuste connotazioni e accezioni di significato a seconda del contesto
+<i class="far fa-comment-dots" style="color:blue"></i> ***Evidenzialità***: ciò che facciamo quando riportiamo delle informazioni acquisite da terze parti: citiamo le fonti? E se sì, in che modo ci rapportiamo ad esse? Ci fidiamo o facciamo capire che non siamo d’accordo?   
+<i class="far fa-comment-dots" style="color:green"></i> ***Coesione e coerenza***: le regole *base* di un “buon testo”, così come sono state stilate dai linguisti Dressler e Beaugrande (*Introduzione alla linguistica testuale* 1984).   
+<i class="far fa-comment-dots" style="color:purple"></i> ***Prosodia semantica***: l’uso delle giuste connotazioni e accezioni di significato a seconda del contesto, che una parola “si porta dietro” in base a come è stata utilizzata e percepita fino ad ora.  
 <i class="far fa-comment-dots" style="color:DarkOrange"></i> ***Violenza verbale / hate-speech***
 
 ## Le schede attività | Template in GDoc
@@ -22,9 +22,13 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 ### Scuole secondarie - 1° grado
 **Il romanzo horror**
+![](frankenstein.jpg)
+
 * <a href="https://docs.google.com/document/d/1A662rDcdvYp_vd0pCvv7_dUhk9kvHYw2GN8tbWggqaA/edit#heading=h.woep0u49atx2" target="_blank">Frankenstein (Mary Shelley, 1818)</a>
 
 **Il romanzo fantastico**
+![](luna.jpg)
+
 * <a href="INSERIRE LINK" target="_blank">Dalla Terra alla Luna (Jules Verne, 1865)</a>
 * <a href="INSERIRE LINK" target="_blank">Alice nel Paese delle Meraviglie (Lewis Carroll, 1865)</a>
 * <a href="INSERIRE LINK" target="_blank">I Viaggi di Gulliver (Jonathan Swift, 1726)</a>
@@ -32,6 +36,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 ### Scuole secondarie - 2° grado
 
 **I Promessi Sposi**
+![](I_promessi_sposi_462.jpg)
 * <a href="https://docs.google.com/document/d/1ozf7iMGhbp8O1TMgm2ovMw2Lj4Yj6MoN2o-iiQKnoO8/edit#heading=h.dbr6ynre5d9q" target="_blank">Brano tratto dal capitolo XXI</a>
 
 **Il testo argomentativo**
@@ -43,10 +48,8 @@ Nella sezione **Hai voglia di scrivere?** trovate alcuni spunti di scrittura che
 
 
 
-## Qualche attività **extra**
-<a href='https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=c0ed31aa33706385f1d918bc3b09bc68'>Frankenstein pre-caricato su Voyant</a>
+## Qualche attività **extra**: Esploriamo il testo?
+Prima di far leggere i brani ai vostri studenti, vi proponiamo un’attività **esplorativa** utilizzando lo strumento **Voyant** per la letteratura *a distanza*. Di seguito alcuni esperimenti linguistici sul testo di *Frankenstein*: abbiamo analizzato <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=creatur*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=CorpusCollocates" target="_blank"> le collocazioni di "creatur\*" </a> e <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=mostro*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank"> i contesti di "mostro" </a> perchè ci interessava capire quanto questi termini fossero caratterizzanti del linguaggio “dell’orrore” tipico del romanzo gotico. 
 
-Esempi di contesti da Voyant sul testo di *Frankenstein*
-https://voyant-tools.org/?corpus=2121c5fa7144303b64b0189e56bc0b05&query=creatur*&view=Contexts [con la parola **creatur\***]
-
-https://voyant-tools.org/?corpus=2121c5fa7144303b64b0189e56bc0b05&query=mostro*&view=Contexts [con **mostro**]
+![](creatur.png)
+![](mostro.png)
