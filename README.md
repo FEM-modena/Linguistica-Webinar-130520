@@ -14,7 +14,7 @@ Vi abbiamo preparato una serie di attività di comprensione e scrittura a partir
 <i class="far fa-comment-dots" style="color:red"></i> ***Metafore concettuali***: le metafore influenzano/costruiscono il modo attraverso il quale concettualizziamo un argomento.  
 <i class="far fa-comment-dots" style="color:blue"></i> ***Evidenzialità***: ciò che facciamo quando riportiamo delle informazioni acquisite da terze parti: citiamo le fonti? E se sì, in che modo ci rapportiamo ad esse? Ci fidiamo o facciamo capire che non siamo d’accordo?   
 <i class="far fa-comment-dots" style="color:green"></i> ***Coesione e coerenza***: le regole *base* di un “buon testo”, così come sono state stilate dai linguisti Dressler e Beaugrande (*Introduzione alla linguistica testuale* 1984).   
-<i class="far fa-comment-dots" style="color:purple"></i> ***Prosodia semantica***: l’uso delle giuste connotazioni e accezioni di significato a seconda del contesto, che una parola “si porta dietro” in base a come è stata utilizzata e percepita fino ad ora.  
+<i class="far fa-comment-dots" style="color:purple"></i> ***Prosodia semantica***: l’uso delle giuste connotazioni e accezioni di significato a seconda del contesto, che una parola “si porta dietro” in base a come è stata utilizzata e percepita fino ad ora.   
 <i class="far fa-comment-dots" style="color:DarkOrange"></i> ***Violenza verbale / hate-speech***
 
 ## Le schede attività | Template in GDoc
@@ -22,12 +22,12 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 ### Scuole secondarie - 1° grado
 **Il romanzo horror**
-![](frankenstein.jpg =x250)
+![](frankenstein.jpg | width=250)
 
 * <a href="https://docs.google.com/document/d/1A662rDcdvYp_vd0pCvv7_dUhk9kvHYw2GN8tbWggqaA/edit#heading=h.woep0u49atx2" target="_blank">Frankenstein (Mary Shelley, 1818)</a>
 
 **Il romanzo fantastico**
-![](luna.jpg =x250)
+![](luna.jpg | width=250)
 
 * <a href="INSERIRE LINK" target="_blank">Dalla Terra alla Luna (Jules Verne, 1865)</a>
 * <a href="INSERIRE LINK" target="_blank">Alice nel Paese delle Meraviglie (Lewis Carroll, 1865)</a>
@@ -36,7 +36,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 ### Scuole secondarie - 2° grado
 
 **I Promessi Sposi**
-![](I_promessi_sposi_462.jpg =x250)
+![](I_promessi_sposi_462.jpg | width=250)
 * <a href="https://docs.google.com/document/d/1ozf7iMGhbp8O1TMgm2ovMw2Lj4Yj6MoN2o-iiQKnoO8/edit#heading=h.dbr6ynre5d9q" target="_blank">Brano tratto dal capitolo XXI</a>
 
 **Il testo argomentativo**
