@@ -9,11 +9,13 @@ Questo webinar fa parte di una programmazione più ampia, dedicata all’interaz
 Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui coinvolte, per poterci scambiare opinioni sulle attività e proposte inedite per temi, metodi e strumenti di lavoro a scuola. 
 
 ## Le nostre proposte 
-Vi abbiamo preparato diverse attività di comprensione e scrittura a partire da diverse tipologie di testi letterari in uso a scuola, e in più una proposta per chi volesse cimentarsi con un testo argomentativo. Le attività sono pensate per le scuole secondarie di primo e di secondo grado, ed affrontano diverse caratteristiche linguistiche coinvolte nella comprensione e nella produzione di testi.
+Vi abbiamo preparato una serie di attività di comprensione e scrittura a partire da diverse tipologie di testi letterari in uso a scuola, e in più una proposta per chi volesse cimentarsi con un testo argomentativo. Le attività sono pensate per le scuole secondarie di primo e di secondo grado, ed affrontano diverse caratteristiche linguistiche coinvolte nella comprensione e nella produzione di testi.
 
-a. Metafore concettuale
-b. Evidenzialità
-C. 
+<i class="far fa-comment-dots" style="color:red"></i> ***Metafore concettuali***: le metafore influenzano/costruiscono il modo attraverso il quale concettualizziamo un argomento.  
+<i class="far fa-comment-dots" style="color:blue"></i> ***Evidenzialità***: ciò che facciamo quando riportiamo delle informazioni da @@@   
+<i class="far fa-comment-dots" style="color:green"></i> Coesione e coerenza: le regole *base* di un “buon testo”,   
+<i class="far fa-comment-dots" style="color:purple"></i> ***Prosodia semantica***: l’uso delle giuste connotazioni e accezioni di significato a seconda del contesto
+<i class="far fa-comment-dots" style="color:DarkOrange"></i> ***Violenza verbale / hate-speech***
 
 ## Le schede attività | Template in GDoc
 Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro.
@@ -36,7 +38,8 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 * <a href="https://docs.google.com/document/d/14xnp7nbh7s1uCywox7Y1ynqZdbXyU-_76IfmwQDVMr8/edit#heading=h.dbr6ynre5d9q" target="_blank">Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa</a>
 
 ### Come sono strutturati i nostri **template**?
-Ogni attività è pensata per essere disponibile in versione *avanzata* anche sulla piattaforma di annotazione **doccano**. Per ogni testo abbiamo preparato una tabella per annotare le caratteristi
+Ogni attività è pensata per essere disponibile in versione *avanzata* anche sulla piattaforma di annotazione **doccano**. Per ogni testo abbiamo preparato una tabella per annotare le caratteristiche testuali, con un focus particolare sulla *prosodia semantica*. Pensiamo infatti che identificare e annotare le caratteristiche salienti di una certa tipologia testuale sia il primo passo per imparare a scrivere un testo originale.
+Nella sezione **Hai voglia di scrivere?** trovate alcuni spunti di scrittura che partono sempre da una *rielaborazione* delle caratteristiche annotate precedentemente. In **Valutiamoci!** vi proponiamo invece un’attività di *(auto)valutazione* da svolgere insieme ai vostri studenti utilizzando lo strumento **Voyant** per leggere i testi letterari. Perchè non provare a caricare i testi prodotti dagli studenti e lasciar loro la possibilità di *esplorarli*, magari concentrandosi sul lessico utilizzato o sull’uso delle connotazioni?
 
 
 
