@@ -34,7 +34,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 <a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’opera *I Promessi Sposi* (Alessandro Manzoni, 1842) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi letterari. 
 
 **Il testo argomentativo**  
-<a href="https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw" target="_blank">Questo template</a> è calibrato sull’analisi di testi argomentativi - in questo caso l’articolo *Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa*, pubblicato sul sito linkiesta.it - e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi argomentativi. 
+<a href="https://docs.google.com/document/d/19tZeWgxqa9vMymbQZ8jc03qzw-rTYIHSj6QJuku8Shs" target="_blank">Questo template</a> è calibrato sull’analisi di testi argomentativi - in questo caso l’articolo *Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa*, pubblicato sul sito linkiesta.it - e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi argomentativi. 
 
 
 ### Come sono strutturati i nostri **template**?
