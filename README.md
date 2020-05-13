@@ -43,7 +43,7 @@ Nella sezione **Hai voglia di scrivere?** trovate alcuni spunti di scrittura che
 
 
 ## Qualche attività **extra**: Esploriamo il testo?
-Prima di far leggere i brani ai vostri studenti, vi proponiamo un’attività **esplorativa** utilizzando lo strumento **Voyant** per la letteratura *a distanza* (dentro ad ogni template c’è un link per accedere ad una mini-guida all’uso di Voyant).  
+Prima di far leggere i brani ai vostri studenti, vi proponiamo un’attività **esplorativa** utilizzando lo strumento <a href= "https://voyant-tools.org" target="_blank">Voyant</a> per la letteratura *a distanza* (dentro ad ogni template c’è un link per accedere ad una mini-guida all’uso di Voyant).    
 Di seguito alcuni esperimenti linguistici sul testo di *Frankenstein*: abbiamo analizzato <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=creatur*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=CorpusCollocates" target="_blank"> le collocazioni di "creatur\*" </a> e <a href= "https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&query=mostro*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank"> i contesti di "mostro" </a> perchè ci interessava capire quanto questi termini fossero caratterizzanti del linguaggio “dell’orrore” tipico del romanzo gotico. 
 
 ![](creatur.png)
